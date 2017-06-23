@@ -1,11 +1,7 @@
 /**
  * I2C/IIC LCD Serial Adapter Module Example
- * Tutorial by http://mklec.com
- * 
- * Instructions at http://blog.mklec.com/how-to-use-iici2c-serial-interface-module-for-1602-lcd-display
  *
- * This uses the Liquid Crystal library from https://bitbucket.org/fmalpartida/new-liquidcrystal/downloads GNU General Public License, version 3 (GPL-3.0)
- * Pin Connections: 
+ * This uses the Liquid Crystal library
  *      SCL = A5
  *      SDA = A4
  *      VCC = 5V
